@@ -7,9 +7,9 @@
 
 
 ## Performance result
-
+<br>
+<br>
 <img src="https://github.com/KeonHeeLee/Gaussian-elimination-with-thread/blob/master/image/28.PNG">
-
 <br>
 - In the case of number 1, the longer the data grows, the longer it takes.<br>
 - The number 2, 3, and 4 have different performance depending on the number of cores in the CPU.<br>
